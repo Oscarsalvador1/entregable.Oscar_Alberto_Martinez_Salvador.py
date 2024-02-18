@@ -7,7 +7,7 @@ Es responzabilidad del alumno adaptar el laboratorio al lenguaje de programació
 ## Step1
 
 1.  Clona el repositorio en tu local
-2.  crea un nuevo archivo llamado ```entregable.{extensión}```
+2.  crea un nuevo archivo llamado ```entregable_{nombre}_{apellido}.{extensión}```
 3.  Ejecuta el código en la terminal con 
     ```linux
     python progRecap01.py
@@ -87,7 +87,7 @@ Razona el ¿cómo? funciona el llamado de una función dentro de un if y cómo f
 Escribe el código resultante del paso 4 al archivo donde estas escribiendo las respuestas
 
 ## Step5
-1. guarda los cambios en el archivo ```entregable.{extensión}```
+1. guarda los cambios en el archivo ```entregable_{nombre}_{apellido}.{extensión}```
 2. agrega los cambios de ese archivo únicamente al repositorio 
 3. realiza un commit con el comentario "entregable"
 4. realiza tu push a la rama principal
